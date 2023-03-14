@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__threadsumada.o
+[PROJECT FILES]
+D:\studi\paralel\2\threadsumada-master\threadsumada.gpr
+20230314133640 8db43779bc053771271e38d605c73a24
+[BOUND OBJECT FILES]
+D:\studi\paralel\2\threadsumada-master\obj\threadsumada.o
+[GENERATED SOURCE FILES]
+b__threadsumada.ads
+b__threadsumada.adb
+b__threadsumada.ali
+[RESULTING OPTIONS]
+-LD:\studi\paralel\2\threadsumada-master\obj\
+-LD:\studi\paralel\2\threadsumada-master\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnarl.a
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Xlinker
+--stack=0x200000,0x1000
+-mthreads
